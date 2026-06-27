@@ -7,7 +7,7 @@
 [![GA4](https://img.shields.io/badge/Analytics-GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)](https://analytics.google.com)
 [![Production](https://img.shields.io/badge/Status-Production-4CAF50?style=flat-square)](https://maltabrava.com)
 
-Public-facing website for **Malta Brava**, a craft brewery and taproom in Encarnación, Paraguay. I'm both the developer and a co-founder — so this isn't a client project, it's a product I care about shipping correctly.
+The public site for **Malta Brava**, my craft brewery and taproom in Encarnación, Paraguay. I'm the founder and I built this — no client, no brief, just a product I wanted shipped the way I'd want it. The beer cans you'll see in the screenshots are art on their own; the site had to do them justice.
 
 Live: **[maltabrava.com](https://maltabrava.com)**
 
@@ -120,4 +120,4 @@ This is a production site for a real business. The repository does not include e
 
 ---
 
-*Built and maintained by Lucas — co-founder @ Malta Brava, developer by necessity and by choice.*
+*Built and maintained by Lucas — founder @ Malta Brava. I make the beer and I build the software. Same hands, same standard.*
